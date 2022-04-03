@@ -1,0 +1,3 @@
+MAC18F,4104.606,85.63
+FIL01A,3503.230,200
+Porcentaje destruidos:33.33%
