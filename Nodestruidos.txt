@@ -1,0 +1,5 @@
+ABC36D,3937.637,235
+BEB30L,8743.36,240
+ABC47A,5624.331,148.32
+Porcentaje de misiles que no llegaron:65.00%
+Promedio de vy=15
